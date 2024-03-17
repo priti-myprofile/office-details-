@@ -1,2 +1,4 @@
 # office-details-
-this is my first program in guthub
+this is my first Git repository
+Author _ Priti
+
